@@ -1,0 +1,31 @@
+{
+  "name": "gatsby-source-pollenvarsel",
+  "description": "Gatsby source plugin for getting pollen forecast data for Norway",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "prettier": "prettier --write gatsby-node.js"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "pollen"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^3.12.16",
+    "node-fetch": "^2.5.0"
+  },
+  "devDependencies": {
+    "prettier": "1.17.0"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/augustskare/gatsby-source-pollenvarsel/issues"
+  },
+  "homepage": "https://github.com/augustskare/gatsby-source-pollenvarsel"
+}
