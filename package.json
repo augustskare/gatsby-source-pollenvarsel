@@ -1,7 +1,7 @@
 {
   "name": "gatsby-source-pollenvarsel",
   "description": "Gatsby source plugin for getting pollen forecast data for Norway",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "scripts": {
     "prettier": "prettier --write gatsby-node.js"
